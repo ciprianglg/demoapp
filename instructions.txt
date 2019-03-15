@@ -1,2 +1,7 @@
 There are basic instructions
+<<<<<<< HEAD
 This is a new updated from console
+=======
+There are new instructions from browser
+>>>>>>> 84df9d7b3e8325825a63b1a11aeca3bab5a6344f
+#Commit
