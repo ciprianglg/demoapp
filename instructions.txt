@@ -1,1 +1,2 @@
 There are basic instructions
+There are new instructions from browser
